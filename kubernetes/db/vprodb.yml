@@ -14,5 +14,5 @@ spec:
 
     env:
      - name: MYSQL_ROOT_PASSWORD
-       value: "vprodbpass"
+       value: "vprodbpass".
 
